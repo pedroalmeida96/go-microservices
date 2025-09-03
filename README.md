@@ -10,15 +10,6 @@ The service is built with:
 
 ---
 
-## 🚀 Prerequisites
-
-- [Go](https://go.dev/)
-- GORM and Echo
-- [Docker](https://www.docker.com/)
-- [Docker Compose](https://docs.docker.com/compose/)
-
----
-
 ## 📦 Setup
 
 ```bash
