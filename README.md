@@ -1,13 +1,19 @@
 # Go Microservices Project
 
 This project was developed while following the course **[Build a Microservice with Go](https://www.linkedin.com/learning/build-a-microservice-with-go/go-for-microservices)** on LinkedIn Learning.  
-The goal is to learn how to create and run a REST API in Go within a microservices environment using Docker and Docker Compose.
+The goal is to learn how to create and run a simple **CRUD REST API** in Go within a microservices environment using Docker and Docker Compose.
+
+The service is built with:
+- [Echo](https://echo.labstack.com/) — Web framework for building APIs
+- [GORM](https://gorm.io/) — ORM library for database operations
+- [PostgreSQL](https://www.postgresql.org/) — Relational database for persistence
 
 ---
 
 ## 🚀 Prerequisites
 
-- [Go](https://go.dev/) (1.18+)
+- [Go](https://go.dev/)
+- GORM and Echo
 - [Docker](https://www.docker.com/)
 - [Docker Compose](https://docs.docker.com/compose/)
 
